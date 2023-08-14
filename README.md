@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 💗
 
-<!--
-**laviniaraksa/laviniaraksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Lavínia Raksa**.
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)! 🧑‍💻
+- Estou me desenvolvendo na linguagem Javascript.
+- Utilizo o GitHub para minha organização e compartilhamento dos meus projetos. ⚛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Contato 📧
+
+ lavinia.raksa@escola.pr.gov.br
+
+ @laviniaraksa
+
+![]( https://media.tenor.com/rxSNGOcPmagAAAAd/smiling-barbie.gif
+)
+
